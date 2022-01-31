@@ -1,0 +1,17 @@
+{
+  "name": "import-data-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "populate.js",
+  "scripts": {
+    "start": "node ./src/populate.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^15.0.0",
+    "mongoose": "^6.1.8"
+  }
+}
